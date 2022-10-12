@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteCliente" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-12T12:34:18" hostname="DESKTOP-BK9CUNH" time="1.989">
+  <properties/>
+  <testcase name="Quando pegar todos os clientes sem cadastrar, entÃ£o a lista deve estar vazia" classname="TesteCliente" time="1.807"/>
+  <testcase name="deletaTodosClientes()" classname="TesteCliente" time="0.033"/>
+  <testcase name="Quando deletar um cliente, entÃ£o ele deve ser removido com sucesso" classname="TesteCliente" time="0.072"/>
+  <testcase name="Quando atualizar um cliente, entÃ£o ele deve ser atualizado" classname="TesteCliente" time="0.044"/>
+  <testcase name="Quando cadastrar um cliente, entÃ£o ele deve estar disponivel no resultado" classname="TesteCliente" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
